@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **18104410010** |
+| Nama Lengkap | **M Dida Prayoga** |
 | Kelas | TI-4A |
